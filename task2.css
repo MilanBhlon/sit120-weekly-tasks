@@ -1,0 +1,32 @@
+/* style for header class */
+.header {
+  color: red;
+}
+/* style for h2 tag */
+h2 {
+  color: green;
+}
+/*style for p tag */
+p {
+  color: blue;
+  font-size: x-large;
+}
+/* style for id */
+#container {
+  font-size: small;
+  border: 2px solid black;
+  padding: 50px 50px 40px;
+}
+/* style for img */
+img {
+  height: 500px;
+  width: 500px;
+}
+/* style for button */
+button {
+  height: 50px;
+  width: 200px;
+  color: red;
+  font-size: x-large;
+  background-color: pink;
+}
